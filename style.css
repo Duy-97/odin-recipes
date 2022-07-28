@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: #090707;
+}
+
+h1 { 
+    color: #d02d7f;
+}
+
+h2  {
+    color: #8a2be2;
+    font-style: italic;
+}
+
+p {
+    color: #2be286;
+}
+
+li {
+    color: #dfeaf3;
+}
+
+.white-title {
+color: #ffffff;
+}
